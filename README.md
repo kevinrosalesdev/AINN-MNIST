@@ -7,4 +7,4 @@
 
 **All the Project Information + Code** can be found in ***mnist_neuralnet.ipynb*.**
 
-This project was made to understand how a **Neural Network** works. If you want to see a more interesting project, don't forget to check out this [**Facial Age Recognizer **](https://github.com/kevinrosalesdev/CNN-FacialAge)!
+This project was made to understand how **Neural Network** works. If you want to see a more interesting project, don't forget to check out this [**Facial Age Recognizer **](https://github.com/kevinrosalesdev/CNN-FacialAge)!
